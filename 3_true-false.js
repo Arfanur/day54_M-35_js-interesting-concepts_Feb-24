@@ -10,7 +10,7 @@ NaN
 -----------------------------
 Truthy:
 true
-any number (positive or negetive)
+any number (positive or negative)
 any string including single whiteSpace, '0', 'false'
 []
 {}
